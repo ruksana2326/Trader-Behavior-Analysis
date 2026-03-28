@@ -120,4 +120,4 @@ print("2. Fear markets show lower win rates and more losses.")
 print("3. Trading activity varies with market sentiment.")
 print("4. Proper risk management is important in volatile conditions.")
 
-print("\n✅ Analysis Completed Successfully!")
+print("\n Analysis Completed Successfully!")
